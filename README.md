@@ -10,6 +10,9 @@
 - 💬 Ask me about **iOS**
 
 <h3 align="left">Connect with me:</h3>
+
+- Email: wizardswizing@gmail.com
+
 <p align="left">
 </p>
 

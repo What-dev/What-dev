@@ -3,15 +3,17 @@
 
 - Currently working on [my website](https://what-dev.github.io)
 
-- 🌱 I’m currently learning **HTML, CSS and LUA**
+- 🌱 I’m currently learning **PYTHON and LUA**
+
+- 💭 I want to eventually learn **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/What-dev](https://github.com/What-dev)
 
-- 💬 Ask me about **iOS**
+- 💬 Ask me about **iOS and GTAV**
 
 <h3 align="left">Connect with me:</h3>
 
-- Email: wizardswizing@gmail.com
+- Email: komadaryder@gmail.com
 
 <p align="left">
 </p>

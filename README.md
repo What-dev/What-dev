@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm WhatDev!</h1>
 <h3 align="center">A simple yet stupid kid from canada.</h3>
 
-- Currently working on GTAV Lua Scripts and my basic python scripts
+- Currently working on GTAV Lua Scripts and My Basic Python Scripts
 
 - 🌱 I’m currently learning **PYTHON and LUA**
 
